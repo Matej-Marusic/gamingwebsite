@@ -1,0 +1,7 @@
+zaženeš XAMPP in v njem apache, opreš brskalnik, vtipkaš http://localhost/dashboard/
+če deluje pomeni da deluje
+
+vtipkaš http://localhost/generico/index.php za it na glavno stran
+
+za novice je članek razdeljen na php osnovo in txt vsebino
+\"
